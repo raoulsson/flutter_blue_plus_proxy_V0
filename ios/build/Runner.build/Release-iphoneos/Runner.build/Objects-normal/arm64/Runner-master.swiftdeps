@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "d763eda64071fad4510854636c341818371b275133b1b0b013d4702d1b21a13e"
+build_start_time: [1653556594, 463797092]
+build_end_time: [1653556596, 356462001]
+inputs:
+  "/Users/raoul/dev/udemy/base_template_project/ios/Runner/AppDelegate.swift": [1645244457, 0]

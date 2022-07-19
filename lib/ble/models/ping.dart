@@ -1,0 +1,3 @@
+class Ping {
+  void runPing() {}
+}
